@@ -1,8 +1,10 @@
 # Mermaid Render
 
-A static Mermaid chart renderer with sketch-style themes, shareable URLs, SVG export, and high-resolution PNG export.
+A free, browser-based Mermaid diagram renderer — for when you want to preview, share, and export diagrams without paying for a subscription or hosted service.
 
-The production app runs on plain static hosting. GitHub Pages does not need Node.js, Bun, or a server at runtime; Bun is only used by GitHub Actions to build the static files.
+Paste Mermaid source, pick a theme, and get shareable links plus SVG and high-resolution PNG export (1×, 2×, or 4×). Everything runs in your browser; nothing is sent to a backend.
+
+The production app is plain static hosting. GitHub Pages does not need Node.js, Bun, or a server at runtime; Bun is only used by GitHub Actions to build the static files.
 
 ## Local Development
 
