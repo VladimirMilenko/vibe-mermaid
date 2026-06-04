@@ -1,5 +1,8 @@
 # Mermaid Render
 
+## [Github pages](https://vladimirmilenko.github.io/vibe-mermaid)
+
+
 A free, browser-based Mermaid diagram renderer — for when you want to preview, share, and export diagrams without paying for a subscription or hosted service.
 
 Paste Mermaid source, pick a theme, and get shareable links plus SVG and high-resolution PNG export (1×, 2×, or 4×). Everything runs in your browser; nothing is sent to a backend.
